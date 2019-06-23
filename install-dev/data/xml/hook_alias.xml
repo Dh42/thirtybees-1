@@ -349,5 +349,13 @@
       <alias>myAccountBlock</alias>
       <name>displayMyAccountBlock</name>
     </hook_alias>
+    <hook_alias id="contactForm">
+      <alias>contactForm</alias>
+      <name>displayContactForm</name>
+    </hook_alias>
+    <hook_alias id="notFound">
+      <alias>notFound</alias>
+      <name>displayNotFound</name>
+    </hook_alias>
   </entities>
 </entity_hook_alias>

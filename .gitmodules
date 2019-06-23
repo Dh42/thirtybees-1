@@ -2,10 +2,6 @@
 	path = modules/bankwire
 	url = https://github.com/thirtybees/bankwire.git
 	ignore = dirty
-[submodule "modules/blockbanner"]
-	path = modules/blockbanner
-	url = https://github.com/thirtybees/blockbanner.git
-	ignore = dirty
 [submodule "modules/blockbestsellers"]
 	path = modules/blockbestsellers
 	url = https://github.com/thirtybees/blockbestsellers.git
@@ -25,14 +21,6 @@
 [submodule "modules/blockcmsinfo"]
 	path = modules/blockcmsinfo
 	url = https://github.com/thirtybees/blockcmsinfo.git
-	ignore = dirty
-[submodule "modules/blockcontact"]
-	path = modules/blockcontact
-	url = https://github.com/thirtybees/blockcontact.git
-	ignore = dirty
-[submodule "modules/blockcontactinfos"]
-	path = modules/blockcontactinfos
-	url = https://github.com/thirtybees/blockcontactinfos.git
 	ignore = dirty
 [submodule "modules/blockcurrencies"]
 	path = modules/blockcurrencies
@@ -78,10 +66,6 @@
 	path = modules/blocknewsletter
 	url = https://github.com/thirtybees/blocknewsletter.git
 	ignore = dirty
-[submodule "modules/blockpaymentlogo"]
-	path = modules/blockpaymentlogo
-	url = https://github.com/thirtybees/blockpaymentlogo.git
-	ignore = dirty
 [submodule "modules/blockpermanentlinks"]
 	path = modules/blockpermanentlinks
 	url = https://github.com/thirtybees/blockpermanentlinks.git
@@ -105,10 +89,6 @@
 [submodule "modules/blockspecials"]
 	path = modules/blockspecials
 	url = https://github.com/thirtybees/blockspecials.git
-	ignore = dirty
-[submodule "modules/blockstore"]
-	path = modules/blockstore
-	url = https://github.com/thirtybees/blockstore.git
 	ignore = dirty
 [submodule "modules/blocksupplier"]
 	path = modules/blocksupplier
@@ -138,10 +118,6 @@
 	path = modules/crossselling
 	url = https://github.com/thirtybees/crossselling.git
 	ignore = dirty
-[submodule "modules/ctconfiguration"]
-	path = modules/ctconfiguration
-	url = https://github.com/thirtybees/ctconfiguration.git
-	ignore = dirty
 [submodule "modules/dashactivity"]
 	path = modules/dashactivity
 	url = https://github.com/thirtybees/dashactivity.git
@@ -170,17 +146,9 @@
 	path = modules/homeslider
 	url = https://github.com/thirtybees/homeslider.git
 	ignore = dirty
-[submodule "modules/productpaymentlogos"]
-	path = modules/productpaymentlogos
-	url = https://github.com/thirtybees/productpaymentlogos.git
-	ignore = dirty
 [submodule "modules/productscategory"]
 	path = modules/productscategory
 	url = https://github.com/thirtybees/productscategory.git
-	ignore = dirty
-[submodule "modules/producttooltip"]
-	path = modules/producttooltip
-	url = https://github.com/thirtybees/producttooltip.git
 	ignore = dirty
 [submodule "modules/sendtoafriend"]
 	path = modules/sendtoafriend
