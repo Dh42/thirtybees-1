@@ -353,9 +353,25 @@
       <alias>contactForm</alias>
       <name>displayContactForm</name>
     </hook_alias>
-    <hook_alias id="notFound">
-      <alias>notFound</alias>
-      <name>displayNotFound</name>
+    <hook_alias id="notFoundTop">
+      <alias>notFoundTop</alias>
+      <name>displayNotFoundTop</name>
+    </hook_alias>
+    <hook_alias id="notFoundBottom">
+      <alias>notFoundBottom</alias>
+      <name>displayNotFoundBottom</name>
+    </hook_alias>
+    <hook_alias id="searchTop">
+      <alias>searchTop</alias>
+      <name>displaySearchTop</name>
+    </hook_alias>
+    <hook_alias id="searchBottom">
+      <alias>searchBottom</alias>
+      <name>displaySearchBottom</name>
+    </hook_alias>
+    <hook_alias id="maintenance">
+      <alias>maintenance</alias>
+      <name>displaymaintenance</name>
     </hook_alias>
   </entities>
 </entity_hook_alias>

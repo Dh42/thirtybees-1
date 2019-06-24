@@ -265,6 +265,24 @@
     <hook id="actionFeatureValueDelete" live_edit="0">
       <name>actionFeatureValueDelete</name><title>Deleting attributes' features' values</title><description>This hook is called while deleting an attributes features value</description>
     </hook>
+    <hook id="displayContactForm" live_edit="1">
+      <name>displayContactForm</name><title>Contact Page</title><description>This hook shows on the contact form</description>
+    </hook>
+    <hook id="displayNotFoundTop" live_edit="1">
+      <name>displayNotFoundTop</name><title>404 Page Top</title><description>This hook shows on the 404 page</description>
+    </hook>
+    <hook id="displayNotFoundBottom" live_edit="1">
+      <name>displayNotFoundBottom</name><title>404 Page Bottom</title><description>This hook shows on the 404 page</description>
+    </hook>
+    <hook id="displaySearchTop" live_edit="1">
+      <name>displaySearchTop</name><title>Search Page Top</title><description>This hook shows on the search page</description>
+    </hook>
+    <hook id="displaySearchBottom" live_edit="1">
+      <name>displaySearchBottom</name><title>Search Page Bottom</title><description>This hook shows on the search page</description>
+    </hook>
+    <hook id="displayMaintenance" live_edit="1">
+      <name>displayMaintenance</name><title>Maintenance Page</title><description>This hook shows on the search page</description>
+    </hook>
     <hook id="actionFeatureValueSave" live_edit="0">
       <name>actionFeatureValueSave</name><title>Saving an attributes features value</title><description>This hook is called while saving an attributes features value</description>
     </hook>
